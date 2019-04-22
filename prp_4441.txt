@@ -1,0 +1,9 @@
+/* Tushar Asnani    CS610 4441 prp */
+
+HANDOUT 2 ADHERED; pgrk4441 has no bugs. hits4441 has no compilation error but shows partial results.
+
+compile both the files first by using javac *.java
+
+# Usage
+java hits3416 iterations initialvalue filename
+java pgrk3416 iterations initialvalue filename
